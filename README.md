@@ -1,0 +1,2 @@
+# mysql-cheatsheet
+mysql- syntax
